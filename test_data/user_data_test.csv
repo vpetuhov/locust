@@ -1,12 +1,11 @@
-username,password
-jojo,bean
-John,Doe
-Jane,Smith
-Michael,Johnson
-Emily,Davis
-Robert,Brown
-Sarah,Wilson
-David,Taylor
-Lisa,Anderson
-James,Martinez
-Patricia,Garcia
+username,password,address1,address2,pass1,arrive,depart
+jojo,bean,845 Fir St,55 Laura White,jojo bean,SanFrancisco,Seattle
+Jane,Smith,456 Elm St,789 Oak St,Jane Smith,Los Angeles,Frankfurt
+Michael,Johnson,789 Oak St,Suite 200,Michael Johnson,Paris,Portland
+Emily,Davis,321 Pine St,482 Spruce St,Emily Davis,Seattle,Portland
+Robert,Brown,654 Cedar St,Apt 12,Robert Brown,Sydney,Zurich
+Sarah,Wilson,987 Birch St,369 Chestnut St,Sarah Wilson,Denver,London
+David,Taylor,135 Maple St,Suite 100,David Taylor,Los Angeles,Frankfurt
+Lisa,Anderson,246 Walnut St,666 Walnut St,Lisa Anderson,Paris,Portland
+James,Martinez,369 Chestnut St,Apt 8,James Martinez,San Francisco,Seattle
+Patricia,Garcia,482 Spruce St,987 Birch St,Patricia Garcia,Sydney,Zurich
